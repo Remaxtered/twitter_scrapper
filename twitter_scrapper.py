@@ -20,10 +20,10 @@ except ImportError:
 
 ################################################
 # SET YOUR TWITTER KEYS/SECRETS
-e["consumer_key"]="F2GstLZpMj4ofvxCv3GUT1kig"
-e['consumer_secret']="lGZUcyowlP9Gnae831gxPKTLwZqPoSvFc7wwA0U8MaWqAAi4KW"
-e["access_token_key"]="1485351635249504259-5r3CpWS6IBPwDTttnaqyTUx5LAzds5"
-e['access_token_secret']="rO6n4hZR0xdJRof9XSnE9T4IQtgOGkXQT7qwyFtCBqPVR"
+e["consumer_key"]="SOME_CNSUMER_KEY"
+e['consumer_secret']="SOME_CONSUMER_SECRET"
+e["access_token_key"]="SOME_ACCESS_TOKEN_KEY"
+e['access_token_secret']="SOME_ACCESS_TOKEN_SECRET"
 # SET TIMEZONE FOR OUTPUT
 local_timezone = 'Europe/Rome'
 ################################################
